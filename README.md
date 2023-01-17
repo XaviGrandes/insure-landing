@@ -23,5 +23,5 @@ On mobile there is a drop down menu that is displayed when you click on the hamb
 ## Technologies
 
 - HTML
-- CSS (BEM methodology and Saas)
+- CSS (BEM methodology)
 - JavaScript
