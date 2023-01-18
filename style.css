@@ -363,6 +363,7 @@ main{
     .valuePoints{
         align-items:flex-start;
         padding: 0 10%;
+        padding-top: 3rem;
     }
 }
 
